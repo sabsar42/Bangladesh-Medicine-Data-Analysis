@@ -34,7 +34,10 @@ The dataset was obtained through web scraping techniques. The process involved e
 
 ## Repository Structure
 
-- `.json`: Contains the raw and processed medicine datasets in json format.
-- `dgda-medicine-dataset-analysis.ipynb`: Notebooks used for data analysis.
-- `web-scrapping-medicines-dgda.ipynb/`: Python scripts for web scraping and data preprocessing.
-- `medicine-dataset-analysis-report/`: Visualizations ans Report generated during the analysis.
+- **datasets/:** 
+  - `.json`: Contains the raw and processed medicine datasets in JSON format.
+  
+- **notebooks/:**
+  - `dgda-medicine-dataset-analysis.ipynb`: Jupyter notebook used for data analysis.
+  - `web-scrapping-medicines-dgda.ipynb`: Python scripts for web scraping and data preprocessing.
+  - `medicine-dataset-analysis-report.ipynb`: Visualizations and report generated during the analysis.
