@@ -1,4 +1,4 @@
-# Medicine Dataset Analysis
+# Bangladesh Medicine Dataset Analysis
 
 This repository contains an analysis of a medicine dataset obtained through web scraping. The analysis explores various aspects of the dataset, providing insights into pharmaceuticals, dosage descriptions, generic names, pharmaceutical companies, and retail prices.
 
