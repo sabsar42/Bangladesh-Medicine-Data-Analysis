@@ -2,9 +2,29 @@
 
 This repository contains an analysis of a medicine dataset obtained through web scraping. The analysis explores various aspects of the dataset, providing insights into pharmaceuticals, dosage descriptions, generic names, pharmaceutical companies, and retail prices.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/df917185-8576-4425-8ea9-1074df7e1fe6" alt="BANGLADESH MEDICINE DATASET" width="1000" height="460"/>
+</div>
+
+
+
+
 ## Dataset Overview
 
-The dataset used in this analysis comprises information related to medicines, including brand names, dosages, generic names, pharmaceutical companies, and retail prices.
+I have scraped over 𝟓𝟎,𝟎𝟎𝟎+ medicine entries directly from dgdagov using 𝐏𝐲𝐭𝐡𝐨𝐧. This dataset compiles detailed information on medicines registered under the Directorate General of Drug Administration (DGDA) in Bangladesh covering 𝐀𝐥𝐥𝐨𝐩𝐚𝐭𝐡𝐢𝐜, 𝐀𝐲𝐮𝐫𝐯𝐞𝐝𝐢𝐜, 𝐇𝐞𝐫𝐛𝐚𝐥, 𝐇𝐨𝐦𝐞𝐨𝐩𝐚𝐭𝐡𝐢𝐜, 𝐁𝐢𝐨𝐜𝐡𝐞𝐦𝐢𝐜, and 𝐔𝐧𝐚𝐧𝐢 𝐦𝐞𝐝𝐢𝐜𝐢𝐧𝐞𝐬. 
+🔍𝐊𝐞𝐲 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐢𝐧𝐜𝐥𝐮𝐝𝐞:
+- Pharmaceutical company name
+- Brand name and generic name
+- Strength and dosage form
+- Retail price
+- Usage type (Human/Animal)
+- DAR (Drug Administration Registration) code
+
+🗂 𝐀𝐜𝐜𝐞𝐬𝐬 𝐢𝐭 𝐡𝐞𝐫𝐞: https://data.mendeley.com/datasets/3x5gsr2jm3/1
+📄 𝐃𝐎𝐈: 10.17632/3x5gsr2jm3.1
+📒𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤 (𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭): [https://www.kaggle.com/.../bangladesh-medicine-dataset...](https://www.kaggle.com/code/shakibabsar42/bangladesh-medicine-dataset-analysis-report)
+
+
 
 ## Analysis Highlights
 
@@ -41,3 +61,7 @@ The dataset was obtained through web scraping techniques. The process involved e
   - `dgda-medicine-dataset-analysis.ipynb`: Jupyter notebook used for data analysis.
   - `web-scrapping-medicines-dgda.ipynb`: Python scripts for web scraping and data preprocessing.
   - `medicine-dataset-analysis-report.ipynb`: Visualizations and report generated during the analysis.
+  
+
+This dataset can be a valuable resource for 𝐩𝐮𝐛𝐥𝐢𝐜 𝐡𝐞𝐚𝐥𝐭𝐡 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬, price comparison studies, pharmaceutical regulation insights, and AI-powered healthcare applications.
+𝐅𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐞𝐱𝐩𝐥𝐨𝐫𝐞, 𝐮𝐬𝐞, 𝐚𝐧𝐝 𝐬𝐡𝐚𝐫𝐞 𝐲𝐨𝐮𝐫 𝐟𝐞𝐞𝐝𝐛𝐚𝐜𝐤!
