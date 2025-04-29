@@ -18,11 +18,11 @@ I have scraped over 𝟓𝟎,𝟎𝟎𝟎+ medicine entries directly from dgdago
 - Strength and dosage form
 - Retail price
 - Usage type (Human/Animal)
-- DAR (Drug Administration Registration) code
+- DAR (Drug Administration Registration) code <br>
 
-🗂 𝐀𝐜𝐜𝐞𝐬𝐬 𝐢𝐭 𝐡𝐞𝐫𝐞: https://data.mendeley.com/datasets/3x5gsr2jm3/1
-📄 𝐃𝐎𝐈: 10.17632/3x5gsr2jm3.1
-📒𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤 (𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭): [https://www.kaggle.com/.../bangladesh-medicine-dataset...](https://www.kaggle.com/code/shakibabsar42/bangladesh-medicine-dataset-analysis-report)
+🗂 𝐀𝐜𝐜𝐞𝐬𝐬 𝐢𝐭 𝐡𝐞𝐫𝐞: https://data.mendeley.com/datasets/3x5gsr2jm3/1 <br>
+📄 𝐃𝐎𝐈: 10.17632/3x5gsr2jm3.1 <br>
+📒𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤 (𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭): [https://www.kaggle.com/.../bangladesh-medicine-dataset...](https://www.kaggle.com/code/shakibabsar42/bangladesh-medicine-dataset-analysis-report) <br> <br>
 
 
 
